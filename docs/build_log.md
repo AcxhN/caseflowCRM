@@ -6,6 +6,9 @@ Newest steps go at the top.
 ---
 
 ## Step 0: Project Scaffold + Local API Smoke Test
+learning objectives:
+- rest api, C#, ASP.NET Core web api
+- (later: dependency injection in ASP.NET Core, middleware in ASP.NET Core, Swagger/OPENAI)
 
 ### Goal
 Set up a clean repo structure and confirm the .NET Web API can run locally and respond to an HTTP request.
